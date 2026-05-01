@@ -1,0 +1,9 @@
+CURRENT OPEN PULL REQUESTS
+==========================
+
+PR Number: 2
+Title: add city
+Created At: 2026-05-01T18:50:13Z
+PR Link: https://github.com/sreejapanyala24/Git_PR_Monitor_Test/pull/2
+Raised By: sreejapanyala24
+----------------------------------------
